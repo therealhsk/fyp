@@ -16,7 +16,7 @@ From *Speech to text*, *text to text* and *text to speech* all in one go for **S
 
 ### The features work if our server.py is up.
 
-#Building the application
+# Building the application
 Check *package.json* for the required versions of expo and react native.
 
 Clone the application to your system and go to its directory and run *expo start*
